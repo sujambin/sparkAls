@@ -1,0 +1,23 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="sparkAls:jar">
+    <output-path>$PROJECT_DIR$/../sparkAls_jar</output-path>
+    <root id="archive" name="sparkAls.jar">
+      <element id="module-output" name="sparkAls" />
+      <element id="extracted-dir" path="$USER_HOME$/software/spark-1.6.2-bin-hadoop2.6/lib/datanucleus-api-jdo-3.2.6.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/software/spark-1.6.2-bin-hadoop2.6/lib/spark-examples-1.6.2-hadoop2.6.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/software/spark-1.6.2-bin-hadoop2.6/lib/spark-assembly-1.6.2-hadoop2.6.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/software/spark-1.6.2-bin-hadoop2.6/lib/spark-1.6.2-yarn-shuffle.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/software/spark-1.6.2-bin-hadoop2.6/lib/datanucleus-rdbms-3.2.9.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/software/spark-1.6.2-bin-hadoop2.6/lib/datanucleus-core-3.2.10.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/software/scala-2.10.4/lib/scala-actors.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/software/scala-2.10.4/lib/scala-reflect.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/software/scala-2.10.4/lib/scala-library.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/software/scala-2.10.4/lib/scala-swing.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/software/scala-2.10.4/lib/scala-actors-migration.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/software/scala-2.10.4/src/scala-library-src.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/software/scala-2.10.4/src/scala-reflect-src.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/software/scala-2.10.4/src/scala-swing-src.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/software/scala-2.10.4/src/scala-actors-src.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
